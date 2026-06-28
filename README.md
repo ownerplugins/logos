@@ -1,4 +1,3 @@
-|======================================================================
 <p align="center">
   <a href="https://github.com/Belfagor2005">
     <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
